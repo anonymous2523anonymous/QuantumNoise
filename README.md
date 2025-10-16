@@ -18,10 +18,12 @@ This repository contains three folders related to quantum algorithm analysis and
 1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
+   
 2. **Navigate to a folder**
    ```bash
    cd NAPR
 or (or noise_benefits, real_machine)
+
 3. **Run the desired script**
  ```bash
    python file_name.py
