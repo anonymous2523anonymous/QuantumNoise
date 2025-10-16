@@ -22,7 +22,7 @@ This repository contains three folders related to quantum algorithm analysis and
 2. **Navigate to a folder**
    ```bash
    cd NAPR
-or (or noise_benefits, real_machine)
+   or (or noise_benefits, real_machine)
 
 3. **Run the desired script**
  ```bash
